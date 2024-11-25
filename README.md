@@ -1,1 +1,2 @@
-# RawCoding
+# CodeMaze
+### All DSA Practice Questions
