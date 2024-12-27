@@ -1,4 +1,4 @@
-package ArrayAndString;
+package Array;
 public class Continues_One_Segment {
 	public static void main(String[] args) {
 		String s = "1011000";

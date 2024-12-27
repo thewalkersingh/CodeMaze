@@ -1,4 +1,4 @@
-package ArrayAndString;
+package Strings;
 public class String_Compress {
 	public static void main(String[] args) {
 		char[] chars = {'a', 'a', 'b', 'b', 'c', 'c', 'c', 'c'};

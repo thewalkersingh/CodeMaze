@@ -1,4 +1,4 @@
-package ArrayAndString;
+package Array;
 public class Increasing_Triplet_Subsequence {
 	public static void main(String[] args) {
 //		int[] nums = {1, 2, 3, 4, 5}; // t

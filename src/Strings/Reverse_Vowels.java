@@ -1,6 +1,4 @@
-package ArrayAndString;
-import java.util.*;
-
+package Strings;
 public class Reverse_Vowels {
 	public static void main(String[] args) {
 //		String s = "race a car";

@@ -1,4 +1,4 @@
-package ArrayAndString;
+package Strings;
 public class Merge_Strings_Alternately {
 	public static void main(String[] args) {
 		String word1 = "ab";

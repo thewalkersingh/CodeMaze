@@ -1,4 +1,4 @@
-package ArrayAndString;
+package Array;
 public class Can_Place_Flowers {
 	public static void main(String[] args) {
 		int[] flowerbed = {1, 0, 1, 0, 1, 0, 1};

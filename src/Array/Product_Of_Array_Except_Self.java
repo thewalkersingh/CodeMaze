@@ -1,4 +1,4 @@
-package ArrayAndString;
+package Array;
 import java.util.Arrays;
 
 public class Product_Of_Array_Except_Self {
